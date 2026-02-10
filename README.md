@@ -24,9 +24,25 @@
 [![Demo](https://img.shields.io/badge/Live_Demo-View_Now-FF4500?style=for-the-badge&logo=vercel)](https://abels-tesla-clone-one-tau.vercel.app/)
 
 ## 📸 Screenshots
-<div className="w-[400]">
-<img width="1877" height="950" alt="image" src="https://github.com/user-attachments/assets/938b29f2-9f35-46e8-9b68-6bd7371288d7" />
-</div>
+<table>
+  <tr>
+    <td><img width="1877" height="950" alt="image" src="https://github.com/user-attachments/assets/938b29f2-9f35-46e8-9b68-6bd7371288d7" /></td>
+    <td><img width="1890" height="953" alt="image" src="https://github.com/user-attachments/assets/a93d8c29-8943-43c9-a3da-7ca42b765ec0" />
+</td>
+  </tr>
+  <tr>
+    <td><img width="1883" height="942" alt="image" src="https://github.com/user-attachments/assets/b3579f49-1d63-4806-a38c-d19b3ace1a05" />
+</td>
+    <td><img width="1883" height="949" alt="image" src="https://github.com/user-attachments/assets/94c53883-52e4-48e6-a729-4edc5ecef6bb" />
+</td>
+  </tr>
+  <tr>
+    <td><img width="1884" height="951" alt="image" src="https://github.com/user-attachments/assets/d71fa12b-2aaa-4a50-95df-c41917637e66" />
+</td>
+    <td><img width="1869" height="906" alt="image" src="https://github.com/user-attachments/assets/5d71b584-b3b6-4f97-85e2-87a9106e04ac" />
+</td>
+  </tr>
+</table>
 
 
 ---
