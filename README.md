@@ -23,6 +23,12 @@
 
 [![Demo](https://img.shields.io/badge/Live_Demo-View_Now-FF4500?style=for-the-badge&logo=vercel)](https://abels-tesla-clone-one-tau.vercel.app/)
 
+## 📸 Screenshots
+<div className="w-[400]">
+<img width="1877" height="950" alt="image" src="https://github.com/user-attachments/assets/938b29f2-9f35-46e8-9b68-6bd7371288d7" />
+</div>
+
+
 ---
 
 
