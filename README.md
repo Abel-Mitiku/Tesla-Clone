@@ -1,36 +1,87 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚗 Tesla Clone - Full-Stack Web Application
 
-## Getting Started
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/GSAP-333333?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
-First, run the development server:
+<p align="center">
+  <a href="#features">Features</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#screenshots">Screenshots</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#license">License</a>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📸 Live Demo
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+[![Demo](https://img.shields.io/badge/Live_Demo-View_Now-FF4500?style=for-the-badge&logo=vercel)](https://abels-tesla-clone-one-tau.vercel.app/)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## 🌟 Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 🚙 Vehicle Showcase
+- ✅ **Realistic 3D Car Models** - Smooth animations with GSAP
+- ✅ **Interactive Configurator** - Customize colors, wheels, and features
+- ✅ **Vehicle Comparison** - Compare different Tesla models side-by-side
+- ✅ **Detailed Specifications** - Range, performance, pricing, and more
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+### 🔐 Authentication & User Management
+- ✅ **User Registration/Login** - Supabase Auth
+- ✅ **Profile Management** - Edit personal information
+- ✅ **Password Reset** - Secure password recovery
+- ✅ **Session Management** - Persistent login state
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 🎨 UI/UX Excellence
+- ✅ **Smooth Animations** - GSAP-powered transitions and effects
+- ✅ **Responsive Design** - Perfect on mobile, tablet, and desktop
+- ✅ **Dark Mode** - Toggle between light and dark themes
+- ✅ **Loading States** - Skeleton screens and progress indicators
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### ⚡ Performance
+- ✅ **Server-Side Rendering** - Next.js for fast initial load
+- ✅ **Image Optimization** - Next.js Image component
+- ✅ **Code Splitting** - Automatic route-based splitting
+- ✅ **Caching** - Optimized API responses
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+| Technology | Purpose |
+|------------|---------|
+| **Next.js 14** | React framework with App Router |
+| **Tailwind CSS** | Utility-first styling |
+| **GSAP** | Advanced animations and transitions |
+| **React Hook Form** | Form handling and validation |
+
+### Backend
+| Technology | Purpose |
+|------------|---------|
+| **Supabase** | Backend-as-a-Service |
+| **PostgreSQL** | Database |
+| **Supabase Auth** | Authentication |
+| **Supabase Storage** | Image/file storage |
+| **Edge Functions** | Serverless functions |
+
+### Tools & DevOps
+| Tool | Purpose |
+|------|---------|
+| **Vercel** | Deployment and hosting |
+| **Git** | Version control |
+| **ESLint** | Code linting |
+| **Prettier** | Code formatting |
+| **npm** | Package manager |
+
+---
+
